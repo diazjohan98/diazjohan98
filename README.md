@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Frameworks para front-end**
 
-- 👨 💻 Todos mis proyectos están disponibles en [https://github.com/diazjohan98](https://github.com/diazjohan98)
+- 👨 💻 Todos mis proyectos están disponibles en [https://app.netlify.com/teams/diazjohan98/overview](https://app.netlify.com/teams/diazjohan98/overview)
 
 - 💬 Pregúntame sobre **vue**
 
