@@ -16,7 +16,7 @@
 
 ---
 
-<<h2 align="left">🚀 Tech Stack</h2>
+<h2 align="left">🚀 Tech Stack</h2>
 
 <h3 align="left">💻 Frontend</h3>
 <p align="left">
@@ -66,11 +66,3 @@
 - 💻 GitHub: https://github.com/diazjohan98
 
 ---
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diazjohan98&show_icons=true&locale=en&layout=compact" alt="diazjohan98" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diazjohan98" alt="diazjohan98" />
-</p>
