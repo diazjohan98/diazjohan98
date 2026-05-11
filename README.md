@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Johan Sebastian Vasquez Diaz</h1>
-<h3 align="center">Frontend Developer | Construyendo experiencias web modernas desde Colombia 🇨🇴</h3>
+<h3 align="center">Tecnólogo en Sistemas | Desarrollador Full Stack (React & Go)| Construyendo experiencias web modernas desde Colombia 🇨🇴</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diazjohan98&label=Profile%20views&color=0e75b6&style=flat" alt="diazjohan98" />
@@ -9,10 +9,10 @@
 
 ## 👨‍💻 Sobre mí
 
-💡 Desarrollador Frontend con experiencia profesional construyendo aplicaciones web modernas y escalables.  
-🎯 Me especializo en transformar diseños de Figma en interfaces dinámicas usando React y TypeScript.  
-⚡ Experiencia optimizando rendimiento con Lazy Loading y manejo eficiente de estado.  
-🔄 Actualmente estoy aprendiendo **Backend Development (Node.js y bases de datos)** para convertirme en desarrollador Full Stack.
+💡 Desarrollador Full Stack especializado en construir aplicaciones web escalables y arquitecturas de alto rendimiento. 
+🎯 Me especializo en transformar diseños complejos en interfaces dinámicas con React y TypeScript, y en diseñar servidores robustos preparados para alta concurrencia con Go (Golang). 
+⚡ Experiencia comprobada optimizando el rendimiento frontend (Lazy Loading, reestructuración de estados) y construyendo sistemas de sincronización en vivo mediante Server-Sent Events (SSE). 
+🚀 Mi enfoque no es solo escribir código, sino destrabar cuellos de botella y crear productos que consuman el mínimo de recursos del servidor.
 
 ---
 
